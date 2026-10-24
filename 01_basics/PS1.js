@@ -8,5 +8,5 @@ const i =
     "l": 4
 };
 console.log(i);
-i['m'] = 5;
+i['m'] = 5;// an object is mutable we can add new key value pairs to it inspite of mentioning it with const
 console.log(i);
