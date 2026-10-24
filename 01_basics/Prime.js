@@ -14,7 +14,7 @@ r.question("Enter the number to be checked", function readInput(m)
     for (let a=1;a<=n;a++)
     {
         if(n%a==0)
-            count++;
+            count++; // increase the count if the number is divisible by a
     }
     if(count==2)
         console.log(n+" is a Prime numrber");
