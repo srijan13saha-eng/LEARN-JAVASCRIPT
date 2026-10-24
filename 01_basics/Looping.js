@@ -19,3 +19,5 @@ console.log("The sum of the first "+n+ " natural numbers is "+ sum);
     r1.close();
 })
 
+
+
