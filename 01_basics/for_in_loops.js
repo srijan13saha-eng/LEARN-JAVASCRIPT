@@ -1,5 +1,5 @@
 // understanding for in loops
-const obj ={
+const obj ={ //creating an object
     A:23,
     B:34,
     C:6
